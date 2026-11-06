@@ -1,0 +1,18 @@
+{
+  "sample": "An-100L-0929",
+  "total_reads": 62557,
+  "input_pairs": 72114,
+  "retention_percent": 86.74737221621322,
+  "asvs": 521,
+  "archaea_reads": 2108,
+  "archaea_percent": 3.369726809150055,
+  "shannon_bits": 6.607396454973134,
+  "gini_simpson": 0.973569438367878,
+  "chao1_bias_corrected": 521.2307692307693,
+  "unresolved_genus_reads": 20528,
+  "max_relative_table_error": 4.996003610813204e-16,
+  "source_sha256": {
+    "FullTable_abs_abun.xlsx": "f0dfebbf5f067f1d010f0560ba6192a7ff601998fca6e794966c717caa1e2b3e",
+    "FullTable_rel_abun.xlsx": "be58ec53efa14edade1234dce4cef3430f690dcca4f77d33b2efadca624e399b"
+  }
+}
